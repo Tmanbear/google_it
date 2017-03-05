@@ -1,6 +1,6 @@
 ## GOOGLE IT!
 
-You can download the source code for this project [here]() or, the executable [here]()
+You can download the source code for this project [here]("/downloads_source.html") or, the executable [here]()
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
